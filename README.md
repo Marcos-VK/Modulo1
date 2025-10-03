@@ -1,2 +1,2 @@
 # Modulo1
-Atv. referente ao curso de Cientista de Dados da EBAC
+Atividades referentes ao curso de Cientista de Dados da EBAC
